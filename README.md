@@ -11,3 +11,8 @@ This repository contains an enplanation of how this raw data was cleaned
 
 - # data source
 - The data used for this project is contained in the [list of farmers-cleaned.xlsx](https://github.com/Ibukun-Oluwatosin/Farmers-list/blob/main/List%20of%20Farmers-cleaned%20data.xlsx)
+
+## Tools and Technologies
+
+- **R**: Used for data cleaning and initial analysis. Key libraries include Pandas for data manipulation.
+- **excel spreadsheet**: clean data, create pivot tables and basic visualizations

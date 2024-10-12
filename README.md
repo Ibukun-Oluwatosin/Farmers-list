@@ -1,6 +1,6 @@
 ## Farmers-list
 
-# Cleaning of a farmers dirty data
+# Cleaning of farmers dirty data
 
 This repository contains an enplanation of how this raw data was cleaned
 ## Project Overview
